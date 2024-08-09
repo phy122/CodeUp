@@ -1,5 +1,6 @@
 package _1000;
 
+//삼각형 출력하기 3
 import java.util.Scanner;
 
 public class _1355 {

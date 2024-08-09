@@ -1,6 +1,6 @@
 package _1000;
 
-//import java.util.Iterator;
+//	a 부터 b까지 출력하기
 import java.util.Scanner;
 
 public class _1253 {

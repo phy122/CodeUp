@@ -1,5 +1,6 @@
 package _1000;
 
+//홀수 짝수 구별
 import java.util.Scanner;
 
 public class _1156 {

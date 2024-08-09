@@ -2,7 +2,7 @@ package _1000;
 
 import java.util.Scanner;
 
-//두 정수 중 큰 정수를 출력한다.
+//	두 수 중 큰 수
 
 public class _1149 {
 	public static void main(String[] args) {
