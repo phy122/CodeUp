@@ -6,13 +6,13 @@ public class _1019 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		int a = sc.nextInt();
-		int b = sc.nextInt();
-		int c = sc.nextInt();
+		String date[] = sc.next().split("[.]");
 		
-		System.out.print(a + ".");
-		System.out.printf("%02d", b + ".");
-		System.out.printf("%02d", c);
+		int year = Integer.parseInt(date[0]);
+		int month = Integer.parseInt(date[1]);
+		int day = Integer.parseInt(date[2]);
+		
+		System.out.print(String.format("%04d", year) + "." + String.format("%02d", month) + "." + String.format("%02d", day));
 		
 
 	}
