@@ -1,5 +1,5 @@
 package _1000;
-//sss
+
 //정수 1개 입력받아 그대로 출력하기
 import java.util.Scanner;
 
