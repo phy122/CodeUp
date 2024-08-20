@@ -1,7 +1,7 @@
 package _1000;
 
 import java.util.Scanner;
-
+//선택정렬
 public class _1442 {
 	public static void main(String[] args) {
 		
