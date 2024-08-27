@@ -1,22 +1,18 @@
-package _1000;
+package _1300;
 
-//삼각형 출력하기 4
+//사각형 출력하기 1
 import java.util.Scanner;
 
-public class _1357 {
+public class _1352 {
+
 	public static void main(String[] args) {
+		
 		Scanner sc = new Scanner(System.in);
 		
 		int n = sc.nextInt();
 		
 		for (int i = 0; i < n; i++) {
-			for (int j = 0; j <= i; j++) {
-				System.out.print("*");
-			}
-			System.out.println();
-		}
-		for (int k = 1; k < n; k++) {
-			for (int t = n; t > k; t--) {
+			for (int j = 0; j < n; j++) {
 				System.out.print("*");
 			}
 			System.out.println();

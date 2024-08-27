@@ -1,4 +1,4 @@
-package _1000;
+package _1200;
 
 //	a 부터 b까지 출력하기
 import java.util.Scanner;

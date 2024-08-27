@@ -1,4 +1,4 @@
-package _1000;
+package _1100;
 
 import java.util.Scanner;
 

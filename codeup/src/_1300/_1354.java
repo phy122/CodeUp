@@ -1,9 +1,9 @@
-package _1000;
+package _1300;
 
-//삼각형 출력하기 1
+//삼각형 출력하기 2
 import java.util.Scanner;
 
-public class _1353 {
+public class _1354 {
 	
 	public static void main(String[] args) {
 		
@@ -11,8 +11,8 @@ public class _1353 {
 		
 		int n = sc.nextInt();
 		
-		for (int i = 1; i <= n; i++) {
-			for (int j = 0; j < i; j++) {
+		for (int i = n; i > 0; i--) {
+			for (int j = i; j > 0; j--) {
 				System.out.print("*");
 
 			}
@@ -20,3 +20,5 @@ public class _1353 {
 		}
 	}
 }
+
+

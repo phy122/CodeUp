@@ -1,4 +1,4 @@
-package _1000;
+package _1200;
 
 //최댓값 구하기
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package _1000;
+package _1300;
 
 //사각형 출력하기 2
 import java.util.Scanner;

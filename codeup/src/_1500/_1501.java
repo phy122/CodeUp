@@ -1,4 +1,4 @@
-package _1000;
+package _1500;
 //2차원 배열 채우기 1
 import java.util.Scanner;
 

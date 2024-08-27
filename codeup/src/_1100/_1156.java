@@ -1,4 +1,4 @@
-package _1000;
+package _1100;
 
 //홀수 짝수 구별
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package _1000;
+package _1500;
 
 //나도 IQ 150
 import java.util.Scanner;

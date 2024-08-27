@@ -1,4 +1,4 @@
-package _1000;
+package _1300;
 //삼각형 출력하기 5
 import java.util.Scanner;
 

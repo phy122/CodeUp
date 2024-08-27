@@ -1,4 +1,4 @@
-package _1000;
+package _1400;
 
 import java.util.Scanner;
 //버블정렬
