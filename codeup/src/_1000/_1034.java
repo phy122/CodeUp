@@ -2,19 +2,15 @@ package _1000;
 
 import java.util.Scanner;
 
-public class _1041 {
+public class _1034 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		char a = sc.next().charAt(0);
+		String a = sc.next();
 		
-		int b = ((int) a + 1) ;
+		int b = Integer.parseInt(a,8);
 		
-		char c = (char) b;
-		
-		System.out.println(c);
-		
-		
+		System.out.println(b);
 	}
 
 }
